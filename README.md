@@ -38,22 +38,6 @@ I'm a passionate developer who loves building innovative solutions across differ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashatem46&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-## 🌟 Featured Projects
-
-### 🤖 [Ai-Assistant](https://github.com/anashatem46/Ai-Assistant)
-An intelligent AI assistant leveraging modern AI technologies to help users with various tasks.
-
-### 📱 [Expenso](https://github.com/anashatem46/Expenso)
-A Flutter-based expense tracking application designed to help users manage their finances efficiently.
-
-### 🏥 [Hospital Management System](https://github.com/anashatem46/hospital_final)
-A comprehensive Java-based hospital management system streamlining healthcare operations.
-
-### 📺 [Rick And Morty App](https://github.com/anashatem46/RickAndMortyApp)
-An iOS application built with Objective-C exploring the Rick and Morty universe.
-
-### 💰 [Notion Transaction App](https://github.com/anashatem46/notion-transaction-app)
-A JavaScript application integrating with Notion for transaction management.
 
 ## 📫 Let's Connect
 
