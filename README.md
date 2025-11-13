@@ -34,11 +34,11 @@ I'm a passionate developer who loves building innovative solutions across differ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashatem46&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<div align="center">å
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashatem46&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-## 💻 Development Activity
+<--! ## 💻 Development Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anashatem46&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
@@ -49,7 +49,7 @@ I'm a passionate developer who loves building innovative solutions across differ
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anashatem46&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
-
+-->
 <div align="center">
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
