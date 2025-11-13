@@ -27,31 +27,4 @@ I'm a passionate developer who loves building innovative solutions across differ
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anashatem46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashatem46&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">å
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashatem46&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
-<--! ## 💻 Development Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anashatem46&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anashatem46&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
--->
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-</div>
