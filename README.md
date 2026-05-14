@@ -30,3 +30,27 @@ I'm a Software Engineer and Communication & Information Engineering graduate fro
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+# Hi, I'm Anas Hatem
+
+Backend-focused Software Engineer interested in building scalable, reliable systems using Java, Spring Boot, REST APIs, SQL databases, Docker, and clean architecture.
+
+I have hands-on experience with backend-driven projects including microservices, authentication, database design, API integration, and debugging. I also build mobile applications with Flutter, giving me a strong understanding of how frontend and backend systems connect.
+
+## Main Focus
+- Java Backend Development
+- Spring Boot & REST APIs
+- SQL Database Design
+- Docker & Development Tools
+- Authentication & Security Basics
+- Microservices & Distributed Systems
+
+## Featured Projects
+
+### Flight Booking System
+Microservices-based backend system using Java, Spring Boot, PostgreSQL, Docker Compose, Kafka, Spring Security/JWT, Spring Cloud Gateway, Prometheus, Grafana, and Jaeger.
+
+### Hospital Management System
+Java + MySQL system for managing patients, appointments, authentication, and medical records.
+
+### Spring Security Demo
+Backend security project focused on authentication, authorization, and Spring Security fundamentals.
