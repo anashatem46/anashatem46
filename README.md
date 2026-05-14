@@ -1,56 +1,15 @@
-# Hi there, I'm Anas Hatem 👋
+# Anas Hatem Mohamed
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+App+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-</div>
+I am a Software Engineer with a focus on backend development. I have experience building applications using Java, Spring Boot, REST APIs, SQL databases, Docker, and Git.
 
-## 🚀 About Me
+My work includes backend systems, database-driven applications, authentication flows, and mobile applications that integrate with backend services. I am interested in writing clean, maintainable code and improving my understanding of scalable software design.
 
-I'm a Software Engineer and Communication & Information Engineering graduate from Helwan University, passionate about building practical solutions across mobile, web, and AI. From AI personal assistants to flight management systems, I love turning ideas into polished products.
+## Technical Interests
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-# Hi, I'm Anas Hatem
-
-Backend-focused Software Engineer interested in building scalable, reliable systems using Java, Spring Boot, REST APIs, SQL databases, Docker, and clean architecture.
-
-I have hands-on experience with backend-driven projects including microservices, authentication, database design, API integration, and debugging. I also build mobile applications with Flutter, giving me a strong understanding of how frontend and backend systems connect.
-
-## Main Focus
-- Java Backend Development
-- Spring Boot & REST APIs
-- SQL Database Design
-- Docker & Development Tools
-- Authentication & Security Basics
-- Microservices & Distributed Systems
-
-## Featured Projects
-
-### Flight Booking System
-Microservices-based backend system using Java, Spring Boot, PostgreSQL, Docker Compose, Kafka, Spring Security/JWT, Spring Cloud Gateway, Prometheus, Grafana, and Jaeger.
-
-### Hospital Management System
-Java + MySQL system for managing patients, appointments, authentication, and medical records.
-
-### Spring Security Demo
-Backend security project focused on authentication, authorization, and Spring Security fundamentals.
+- Backend Development
+- Java and Spring Boot
+- REST API Design
+- SQL Databases
+- Authentication and Authorization
+- Docker and Development Tools
+- Microservices and Distributed Systems
